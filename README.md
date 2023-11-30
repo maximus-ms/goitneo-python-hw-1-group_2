@@ -1,8 +1,8 @@
-## GoIT Python HW-1
+## GoITNeo Python HW-1
 
 ### Task 1: Birthdays
 Prints list of Users who has birthday in nearest 7 days, per working weekday.
-All BDs on weekend - to Monday's group
+All BDs on weekend - to Monday's group.
 If today is Monday, all BDs from last weekend - to today's group.
 If BD is 29-Feb - shift it to 28-Feb if currently is not leap year.
 
